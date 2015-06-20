@@ -1,0 +1,100 @@
+Case #1: Not Possible
+Case #2: Not Possible
+Case #3: Not Possible
+Case #4: 4
+Case #5: 1
+Case #6: Not Possible
+Case #7: Not Possible
+Case #8: Not Possible
+Case #9: 6
+Case #10: Not Possible
+Case #11: 2
+Case #12: 4
+Case #13: 6
+Case #14: Not Possible
+Case #15: 1
+Case #16: 4
+Case #17: 1
+Case #18: 4
+Case #19: 2
+Case #20: 4
+Case #21: 3
+Case #22: Not Possible
+Case #23: Not Possible
+Case #24: 4
+Case #25: 6
+Case #26: Not Possible
+Case #27: 6
+Case #28: Not Possible
+Case #29: 1
+Case #30: Not Possible
+Case #31: 3
+Case #32: Not Possible
+Case #33: 1
+Case #34: 4
+Case #35: Not Possible
+Case #36: 4
+Case #37: Not Possible
+Case #38: Not Possible
+Case #39: 6
+Case #40: Not Possible
+Case #41: Not Possible
+Case #42: Not Possible
+Case #43: Not Possible
+Case #44: Not Possible
+Case #45: Not Possible
+Case #46: 3
+Case #47: Not Possible
+Case #48: Not Possible
+Case #49: Not Possible
+Case #50: Not Possible
+Case #51: 4
+Case #52: Not Possible
+Case #53: Not Possible
+Case #54: Not Possible
+Case #55: Not Possible
+Case #56: 5
+Case #57: Not Possible
+Case #58: Not Possible
+Case #59: 5
+Case #60: 9
+Case #61: Not Possible
+Case #62: Not Possible
+Case #63: Not Possible
+Case #64: Not Possible
+Case #65: Not Possible
+Case #66: Not Possible
+Case #67: 6
+Case #68: Not Possible
+Case #69: Not Possible
+Case #70: Not Possible
+Case #71: 1
+Case #72: Not Possible
+Case #73: 9
+Case #74: Not Possible
+Case #75: 1
+Case #76: 4
+Case #77: Not Possible
+Case #78: Not Possible
+Case #79: 2
+Case #80: Not Possible
+Case #81: 4
+Case #82: 3
+Case #83: 6
+Case #84: 7
+Case #85: Not Possible
+Case #86: 3
+Case #87: Not Possible
+Case #88: Not Possible
+Case #89: Not Possible
+Case #90: 5
+Case #91: 5
+Case #92: Not Possible
+Case #93: 4
+Case #94: Not Possible
+Case #95: 3
+Case #96: 2
+Case #97: 5
+Case #98: 3
+Case #99: Not Possible
+Case #100: 2
